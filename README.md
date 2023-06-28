@@ -14,6 +14,7 @@
 
 ### field to study
 [![Pandas](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=pandas)](https://github.com/SeonGyuJang)
+[![Tensorflow](https://img.shields.io/badge/pandas-black?style=for-the-badge&logo=tensorflow)](https://github.com/SeonGyuJang)
 [![NumPy](https://img.shields.io/badge/numpy-black?style=for-the-badge&logo=numpy)](https://github.com/SeonGyuJang)
 [![Scikit-Learn](https://img.shields.io/badge/scikit--learn-black?style=for-the-badge&logo=scikit-learn)](https://github.com/SeonGyuJang)
 [![PyTorch](https://img.shields.io/badge/PyTorch-black?style=for-the-badge&logo=PyTorch)](https://github.com/SeonGyuJang)
