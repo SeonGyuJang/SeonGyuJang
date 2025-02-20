@@ -4,7 +4,7 @@
     <b>Welcome to my page!</b><br><br>
     <i>
         I'm SeonGyu Jang<br>
-        I am a university student who is very interested in the field of computer vision<br>
+        I am a university student who is very interested in the field of Computer Vision, Reinforcement Learning, Large Language Models<br>
         and I have many shortcomings, But I will study hard🔥 <br>
     </i><br>
 </p>
