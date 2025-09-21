@@ -113,13 +113,13 @@
 
 <div align="center">
   
-  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)]([https://www.notion.so/[your-notion-page](https://www.notion.so/jangseongyu/8992c6366519499381728c6feee63163)])
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/[your-linkedin](https://www.linkedin.com/in/seongyu-jang-5b8268297/)])
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:[dsng3419@gmail.com])
+  [![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/jangseongyu/8992c6366519499381728c6feee63163)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seongyu-jang-5b8268297/)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dsng3419@gmail.com)
   
 </div>
 
 <div align="center">
   <br/>
   <i>"Exploring the intersection of AI and real-world applications"</i>
-</div>
+</div
