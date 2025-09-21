@@ -64,7 +64,7 @@
 
 | Project | Description | Tech Stack | Link |
 |---------|-------------|------------|------|
-| **KUS Club Union Homepage** | Official homepage for Korea University (Sejong) Student Club Union | Web Development | [🔗 Visit](https://kus-club-union.fly.dev/) |
+| **KUS Club Union Homepage** | Homepage for Korea University (Sejong) Student Club Union | Web Development | [🔗 Visit](https://kus-club-union.fly.dev/) |
 | **KUS BUS** | Real-time shuttle bus schedule & campus menu tracking web app | Web Development | [🔗 Visit](https://www.kus-bus.site/) |
 
 <br/>
