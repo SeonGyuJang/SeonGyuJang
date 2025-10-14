@@ -43,7 +43,7 @@
 |--------|-------------|------|
 | **Jul 2025 - Present** | AD-ZONE Club, Korea University | **Treasurer** (2025-02) |
 | **Jan 2025 - Present** | 45th Student Club Union 'Paran' | **Director of Planning** |
-| **Mar 2024 - Present** | One-Stop Service Center, KU | **Work-Study Student** |
+| **Mar 2024 - Present** | One-Stop Service Center, KUS | **Work-Study Student** |
 | **Sep 2023 - Present** | Cactusun (Brand Startup) | **CTO** |
 
 <br/>
@@ -55,7 +55,7 @@
 | **Jan - Jul 2025** | AD-ZONE Club, Korea University | **Vice President** |
 | **Jul - Dec 2024** | Farmkit Inc. (Corporate R&D) | **AI Developer Intern** |
 | **Jul - Dec 2024** | AD-ZONE Club, Korea University | **Planning & Operations Staff** |
-| **Mar - Dec 2024** | 'PRISM' Data/AI Society, KU | **1st President** (Founder) |
+| **Mar - Dec 2024** | 'PRISM' Data/AI Society, KUS | **1st President** (Founder) |
 | **Mar - Dec 2024** | 44th Student Club Union 'Dongshim' | **PR Team Member** |
 
 <br/>
