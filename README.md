@@ -41,6 +41,7 @@
 
 | Period | Organization | Role |
 |--------|-------------|------|
+| **Dec 2025 – Present** | 38th Student Council “Bibeom”, Korea University Sejong Campus | **Vice President**
 | **Jul 2025 - Present** | AD-ZONE Club, Korea University | **Treasurer** (2025-02) |
 | **Jan 2025 - Present** | 45th Student Club Union 'Paran' | **Director of Planning** |
 | **Mar 2024 - Present** | One-Stop Service Center, KUS | **Work-Study Student** |
